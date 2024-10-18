@@ -1,0 +1,6 @@
+E:\project\c#\windows form\weather\weather\Presentation_Layer\bin\Debug\Presentation_Layer.dll
+E:\project\c#\windows form\weather\weather\Presentation_Layer\bin\Debug\Presentation_Layer.pdb
+E:\project\c#\windows form\weather\weather\Presentation_Layer\obj\Debug\Presentation_Layer.csproj.AssemblyReference.cache
+E:\project\c#\windows form\weather\weather\Presentation_Layer\obj\Debug\Presentation_Layer.csproj.CoreCompileInputs.cache
+E:\project\c#\windows form\weather\weather\Presentation_Layer\obj\Debug\Presentation_Layer.dll
+E:\project\c#\windows form\weather\weather\Presentation_Layer\obj\Debug\Presentation_Layer.pdb

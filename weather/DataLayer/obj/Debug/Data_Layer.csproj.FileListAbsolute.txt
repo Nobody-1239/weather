@@ -1,0 +1,6 @@
+E:\project\c#\windows form\weather\weather\DataLayer\bin\Debug\DataLayer.dll
+E:\project\c#\windows form\weather\weather\DataLayer\bin\Debug\DataLayer.pdb
+E:\project\c#\windows form\weather\weather\DataLayer\obj\Debug\Data_Layer.csproj.AssemblyReference.cache
+E:\project\c#\windows form\weather\weather\DataLayer\obj\Debug\Data_Layer.csproj.CoreCompileInputs.cache
+E:\project\c#\windows form\weather\weather\DataLayer\obj\Debug\DataLayer.dll
+E:\project\c#\windows form\weather\weather\DataLayer\obj\Debug\DataLayer.pdb
